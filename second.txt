@@ -1,4 +1,0 @@
-最初のgit操作
-追加のファイルを扱う
-.git add
-.git commit
